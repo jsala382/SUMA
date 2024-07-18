@@ -15,11 +15,8 @@ public class Main {
         System.out.println("Ingrese otro numeto");
         num2 = input.nextInt();
         suma = num1 + num2;
-        int resta = num1 - num2;
-        int multiplicacion = num1 * num2;
         System.out.println("la suma de num1 + num2 es igual a " + suma);
-        System.out.println("la diferencia de num1 - num2 es igual a " + resta);
-        System.out.println("El producto  de num1 * num2 es igual a " + multiplicacion);
+
 
     }
 }
